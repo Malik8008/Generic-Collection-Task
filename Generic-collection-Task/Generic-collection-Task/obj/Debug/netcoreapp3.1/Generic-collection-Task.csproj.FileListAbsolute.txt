@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\bin\Debug\netcoreapp3.1\Generic-collection-Task.exe
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\bin\Debug\netcoreapp3.1\Generic-collection-Task.deps.json
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\bin\Debug\netcoreapp3.1\Generic-collection-Task.runtimeconfig.json
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\bin\Debug\netcoreapp3.1\Generic-collection-Task.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\bin\Debug\netcoreapp3.1\Generic-collection-Task.dll
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\bin\Debug\netcoreapp3.1\Generic-collection-Task.pdb
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\obj\Debug\netcoreapp3.1\Generic-collection-Task.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\obj\Debug\netcoreapp3.1\Generic-collection-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\obj\Debug\netcoreapp3.1\Generic-collection-Task.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\obj\Debug\netcoreapp3.1\Generic-collection-Task.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\obj\Debug\netcoreapp3.1\Generic-collection-Task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\obj\Debug\netcoreapp3.1\Generic-collection-Task.dll
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\obj\Debug\netcoreapp3.1\Generic-collection-Task.pdb
+C:\Users\Admin\source\repos\Generic-collection-Task\Generic-collection-Task\obj\Debug\netcoreapp3.1\Generic-collection-Task.genruntimeconfig.cache
